@@ -1,1 +1,1 @@
-pycord
+python3
