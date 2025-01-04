@@ -61,4 +61,4 @@ async def joined(ctx: commands.Context, member: discord.Member):
 async def utty(ctx):
     await ctx.respond("for the U.T.T.Y.!!!")
 
-bot.run('MTI4ODQ4MTg1NjQ4Mzc1NDAzOA.GR36sw.To7ImOl1LPlBfS9R3gaelUbgtIpwFea54Y07VY')
+bot.run('')
